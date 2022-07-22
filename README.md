@@ -9,5 +9,5 @@ Soy estudiante de la carrera de ingenieria en sistema de informacion y tambien s
 
 ## Contactame
 
-![https://www.linkedin.com/in/nicolas-fuentes-garcia-7997a1236/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</br>
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</br>https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
