@@ -1,8 +1,10 @@
 
 <p align="center" width="300">
+      <img align="center" width="200" src="https://media-exp1.licdn.com/dms/image/C4D03AQEO0jRli09USw/profile-displayphoto-shrink_800_800/0/1651447976346?e=1663804800&v=beta&t=oIwGVclHr2Qk0g5U_S9ZbnWtN8v_TLTTdWQVFEpPTqA" 
+    />
      <h3 align="center">¡ BIENVENIDO 👋!  Soy Nico 👨🏻‍💻</h3>
 </p> 
-<p align="center">Soy <strong>Desarrolador mobile </strong>(Android) jr.<br />¡Revisa mi contenido 👇!</p>
+<p align="center">Soy <strong>Desarrollador mobile </strong>(Android) jr.<br/>
 
 
 ## Habilidades
@@ -19,9 +21,11 @@
   </a>
   
   </div>
-<div align="center">
-
+  
+  
 ## Contactame
+
+<div align="center">
 
 <p align="center">
    <a href="https://www.linkedin.com/in/nicolas-fuentes-garcia-7997a1236/" target="blank" style='margin-right:4px'>
