@@ -1,6 +1,6 @@
 
 <p align="center" width="300">
-      <img align="center" width="200" src="https://media-exp1.licdn.com/dms/image/C4D03AQEO0jRli09USw/profile-displayphoto-shrink_800_800/0/1651447976346?e=1663804800&v=beta&t=oIwGVclHr2Qk0g5U_S9ZbnWtN8v_TLTTdWQVFEpPTqA" 
+      <img align="center" width="200" src="https://previews.123rf.com/images/dianamk/dianamk1610/dianamk161000022/67481280-lobo-logotipo-perfil-de-la-cabeza-stock-vectorial-para-su-dise%C3%B1o.jpg" 
     />
      <h3 align="center">¡ BIENVENIDO 👋!  Soy Nico 👨🏻‍💻</h3>
 </p> 
