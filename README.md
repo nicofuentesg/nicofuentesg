@@ -1,39 +1,32 @@
+# ¡Hola a todos! 👋
 
-<p align="center" width="300">
-      <img align="center" width="200" src="https://previews.123rf.com/images/dianamk/dianamk1610/dianamk161000022/67481280-lobo-logotipo-perfil-de-la-cabeza-stock-vectorial-para-su-dise%C3%B1o.jpg" 
-    />
-     <h3 align="center">¡ BIENVENIDO 👋!  Soy Nico 👨🏻‍💻</h3>
-</p> 
-<p align="center">Soy <strong>Desarrollador Backend </strong>(Android) jr.<br/>
+¡Bienvenidos a mi perfil de GitHub! Soy Nicolás Fuentes, un estudiante avanzado de Ingeniería en Sistemas y actualmente me estoy formando como desarrollador backend con C# .NET. Además, tengo experiencia con Kotlin y manejo el IDE de Android Studio. Estoy apasionado por el mundo del desarrollo de software y siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades.
 
+## Sobre mí
 
-## Habilidades
+- 👨‍💻 Estudiante avanzado de Ingeniería en Sistemas.
+- 🌱 Actualmente me estoy formando como desarrollador backend con C# .NET.
+- 💼 Experiencia en el desarrollo de aplicaciones Android con Kotlin y Android Studio.
+- 📊 Conocimientos en bases de datos relacionales y no relacionales.
+- 🚀 Apasionado por el código limpio y las soluciones eficientes.
 
-<p align="center">
-   <a href="" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"   />
-  </a>
-  <a href="" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"  />
-  </a>
-  <a href="" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"  />
-  </a>
-  
-  </div>
-  
-  
-## Contactame
+## Tecnologías y herramientas
 
-<div align="center">
+Aquí hay algunas de las tecnologías con las que trabajo y herramientas que utilizo:
 
-<p align="center">
-   <a href="https://www.linkedin.com/in/nicolas-fuentes-garcia-7997a1236/" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"   />
-  </a>
- 
-  
-  </div>
-<div align="center">
+- ![C#](https://img.shields.io/badge/C%23%20%20-purple?style=plastic&logo=csharp&labelColor=black)
+- ![.NET](https://img.shields.io/badge/.NET%20%20-purple?style=plastic&logo=dotnet&labelColor=black)
+- ![Kotlin](https://img.shields.io/badge/Kotlin%20%20-purple?style=plastic&logo=kotlin&labelColor=black)
+- ![Android Studio](https://img.shields.io/badge/Android%20Studio%20-purple?style=plastic&logo=androidstudio&labelColor=black)
+- ![Visual Studio](https://img.shields.io/badge/Visual%20Studio%20-purple?style=plastic&logo=visualstudio&labelColor=black)
+- ![Firebase](https://img.shields.io/badge/Firebase%20%20-purple?style=plastic&logo=firebase&labelColor=black)
+- ![GitHub](https://img.shields.io/badge/GitHub%20%20-purple?style=plastic&logo=github&labelColor=black)
 
+## Contacto
 
+¡Me encantaría conectarme contigo! Puedes encontrarme en:
+
+- [LinkedIn](https://www.linkedin.com/in/nicolas-fuentes-garcia-7997a1236/) <!-- Reemplaza # con tu enlace de LinkedIn -->
+- [Correo electrónico](nicolasfuentesg06@gmail.com) <!-- Reemplaza # con tu dirección de correo electrónico -->
+
+¡Gracias por visitar mi perfil! 😊
