@@ -1,12 +1,15 @@
 # ¡Hola a todos! 👋
 
-¡Bienvenidos a mi perfil de GitHub! Soy Nicolás Fuentes, un estudiante avanzado de Ingeniería en Sistemas y actualmente me estoy formando como desarrollador backend con C# .NET. Además, tengo experiencia con Kotlin y manejo el IDE de Android Studio. Estoy apasionado por el mundo del desarrollo de software y siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades.
+📱  Soy Nicolás Fuentes, un estudiante avanzado de Ingeniería en Sistemas con un enfoque especial en el desarrollo móvil para iOS y Android. Mi pasión por crear experiencias únicas en aplicaciones me ha llevado a especializarme en el backend con C# .NET, además de tener experiencia sólida con desarrollo mobile tanto ANDROID como IOS.
+
+🚀 Estoy constantemente inmerso en el emocionante mundo del desarrollo de software, siempre buscando aprender nuevas tecnologías y mejorar mis habilidades. Mi objetivo es crear aplicaciones móviles que no solo sean funcionales, sino que también ofrezcan una experiencia excepcional para los usuarios.
+
+✨ Siempre estoy abierto a nuevas oportunidades y desafíos, ya sea colaborando en proyectos emocionantes o ampliando mis conocimientos en el desarrollo móvil.
 
 ## Sobre mí
 
 - 👨‍💻 Estudiante avanzado de Ingeniería en Sistemas.
-- 🌱 Actualmente me estoy formando como desarrollador backend con C# .NET.
-- 💼 Experiencia en el desarrollo de aplicaciones Android con Kotlin y Android Studio.
+- 💼 Experiencia en el desarrollo de aplicaciones mobile kotlin, swift en Android Studio y XCODE respectivamente.
 - 📊 Conocimientos en bases de datos relacionales y no relacionales.
 - 🚀 Apasionado por el código limpio y las soluciones eficientes.
 
