@@ -1,6 +1,6 @@
 # ¡Hola a todos! 👋
 
-📱  Soy Nicolás Fuentes, un estudiante avanzado de Ingeniería en Sistemas con un enfoque especial en el desarrollo móvil para iOS y Android. Mi pasión por crear experiencias únicas en aplicaciones me ha llevado a especializarme en el backend con C# .NET, además de tener experiencia sólida con desarrollo mobile tanto ANDROID como IOS.
+📱  Soy Nicolás Fuentes, un estudiante avanzado de Ingeniería en Sistemas con un enfoque especial.
 
 🚀 Estoy constantemente inmerso en el emocionante mundo del desarrollo de software, siempre buscando aprender nuevas tecnologías y mejorar mis habilidades. Mi objetivo es crear aplicaciones móviles que no solo sean funcionales, sino que también ofrezcan una experiencia excepcional para los usuarios.
 
@@ -9,7 +9,7 @@
 ## Sobre mí
 
 - 👨‍💻 Estudiante avanzado de Ingeniería en Sistemas.
-- 💼 Experiencia en el desarrollo de aplicaciones mobile kotlin, swift en Android Studio y XCODE respectivamente.
+- 💼 Experiencia en el desarrollo de aplicaciones web con Angular y aplicaciones backend con .NET .
 - 📊 Conocimientos en bases de datos relacionales y no relacionales.
 - 🚀 Apasionado por el código limpio y las soluciones eficientes.
 
