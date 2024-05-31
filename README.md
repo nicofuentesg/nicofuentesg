@@ -2,9 +2,9 @@
 
 📱  Soy Nicolás Fuentes, un estudiante avanzado de Ingeniería en Sistemas con un enfoque especial.
 
-🚀 Estoy constantemente inmerso en el emocionante mundo del desarrollo de software, siempre buscando aprender nuevas tecnologías y mejorar mis habilidades. Mi objetivo es crear aplicaciones móviles que no solo sean funcionales, sino que también ofrezcan una experiencia excepcional para los usuarios.
+🚀 Estoy constantemente inmerso en el emocionante mundo del desarrollo de software, siempre buscando aprender nuevas tecnologías y mejorar mis habilidades. 
 
-✨ Siempre estoy abierto a nuevas oportunidades y desafíos, ya sea colaborando en proyectos emocionantes o ampliando mis conocimientos en el desarrollo móvil.
+✨ Siempre estoy abierto a nuevas oportunidades y desafíos, ya sea colaborando en proyectos emocionantes o ampliando mis conocimientos en el desarrollo backend.
 
 ## Sobre mí
 
