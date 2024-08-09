@@ -1,15 +1,14 @@
 # ¡Hola a todos! 👋
 
-📱  Soy Nicolás Fuentes, un estudiante avanzado de Ingeniería en Sistemas con un enfoque especial.
+📱  Soy Nicolás Fuentes, un estudiante avanzado de Ingeniería en Sistemas con un enfoque especial en el desarrollo Movil.
 
 🚀 Estoy constantemente inmerso en el emocionante mundo del desarrollo de software, siempre buscando aprender nuevas tecnologías y mejorar mis habilidades. 
-
-✨ Siempre estoy abierto a nuevas oportunidades y desafíos, ya sea colaborando en proyectos emocionantes o ampliando mis conocimientos en el desarrollo backend.
 
 ## Sobre mí
 
 - 👨‍💻 Estudiante avanzado de Ingeniería en Sistemas.
-- 💼 Experiencia en el desarrollo de aplicaciones web con Angular y aplicaciones backend con .NET .
+- 💼 Experiencia en el desarrollo de aplicaciones Movil con React Native.
+- 💼 Experiencia en el desarrollo de aplicaciones Movil con android.
 - 📊 Conocimientos en bases de datos relacionales y no relacionales.
 - 🚀 Apasionado por el código limpio y las soluciones eficientes.
 
